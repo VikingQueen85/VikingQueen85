@@ -28,6 +28,8 @@ Contributions include bug fixes, feature enhancements, and documentation improve
 
 👋 Let's Connect!!
 
-LinkedIn: (https://www.linkedin.com/in/teresa-pahl-7a1654318/)
-Email: Missrn1985@gmail.com
-Location: Rotorua, New Zealand
+LinkedIn - (https://www.linkedin.com/in/teresa-pahl-7a1654318/)
+
+Email - Missrn1985@gmail.com
+
+Location - Rotorua, New Zealand
