@@ -1,4 +1,4 @@
-Hi there, My name is Teresa Pahl (Tessa)!! 👋
+# Hi there, My name is Teresa Pahl (Tessa)!! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Continuous+Learning;Test-Driven+Development;Project-Based+Learning;Communication+%26+Leadership;Problem+Solving)](https://git.io/typing-svg)
 
