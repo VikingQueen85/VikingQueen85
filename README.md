@@ -60,6 +60,7 @@ I am deeply committed to continuous professional development and staying at the 
 ## 📊 **GitHub Stats**
 
 ![Tessa Pahl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikingQueen85&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VikingQueen85&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikingQueen85&layout=compact&theme=radical)
 
 ## 📫 **Let's Connect!**
