@@ -8,6 +8,15 @@ My extensive background as a **Registered Nurse** has uniquely honed my **except
 
 🛠️ **Technologies & Tools**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-0056B3?style=for-the-badge&logo=appwrite&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0C7DDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white)
+![SEO Best Practices](https://img.shields.io/badge/SEO_Best_Practices-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 💻 **Languages & Frameworks**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -21,17 +30,6 @@ My extensive background as a **Registered Nurse** has uniquely honed my **except
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-
-🔧 **Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-0056B3?style=for-the-badge&logo=appwrite&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0C7DDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white)
-![SEO Best Practices](https://img.shields.io/badge/SEO_Best_Practices-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 🌱 **Currently Learning**
 
