@@ -9,6 +9,7 @@ My extensive background as a **Registered Nurse** has uniquely honed my **except
 🛠️ **Technologies & Tools**
 
 💻 **Languages & Frameworks**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,10 +18,12 @@ My extensive background as a **Registered Nurse** has uniquely honed my **except
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 💾 **Databases**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 🔧 **Tools & Technologies**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -31,6 +34,7 @@ My extensive background as a **Registered Nurse** has uniquely honed my **except
 ![SEO Best Practices](https://img.shields.io/badge/SEO_Best_Practices-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 🌱 **Currently Learning**
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Advanced React](https://img.shields.io/badge/React_Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -52,8 +56,8 @@ I am deeply committed to continuous professional development and staying at the 
 
 📊 **GitHub Stats**
 
-![Tessa Pahl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Tessa Pahl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikingQueen85&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VikingQueen85&layout=compact&theme=radical)
 
 📫 **Let's Connect!**
 
