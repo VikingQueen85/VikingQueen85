@@ -74,8 +74,14 @@ I am deeply committed to continuous professional development and staying at the 
 
 ## 📫 **Let's Connect!**
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teresa-pahl-7a1654318/)&nbsp;&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Missrn1985@gmail.com)
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/teresa-pahl-7a1654318/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:Missrn1985@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
 
 #### 💡 *"Progress is impossible without change, and those who cannot change their minds cannot change anything." - George Bernard Shaw*
