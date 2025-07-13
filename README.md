@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Continuous+Learner;RN+to+Web+Dev" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hi there, My name is Teresa Pahl (Tessa)!! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Continuous+Learning;Test-Driven+Development;Project-Based+Learning;Communication+%26+Leadership;Problem+Solving)](https://git.io/typing-svg)
@@ -11,6 +17,8 @@ My extensive background as a **Registered Nurse** has uniquely honed my **except
 ## 🛠️ **Technologies & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -37,6 +45,7 @@ My extensive background as a **Registered Nurse** has uniquely honed my **except
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Advanced React](https://img.shields.io/badge/React_Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Database Optimization](https://img.shields.io/badge/Database_Optimization-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 
