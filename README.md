@@ -1,8 +1,8 @@
-Hi there, My name is Tessa Pahl!! 👋
+Hi there, My name is Teresa Pahl (Tessa)!! 👋
 
 🚀 **About Me**
 
-I'm a passionate and driven **Entry-Level Junior Full Stack Web Developer** with a solid foundation in modern web technologies, having recently completed my comprehensive Full Stack Web Development certification at Mission Ready (July 2024 – July 2025).
+I'm a passionate and driven **Junior Full Stack Web Developer** with a solid foundation in modern web technologies, having recently completed my comprehensive Full Stack Web Development certification at Mission Ready (July 2024 – July 2025).
 
 My extensive background as a **Registered Nurse** has uniquely honed my **exceptional attention to detail, sustained diligence, and top-tier communication skills**, including de-escalation and patience – qualities I believe are invaluable in collaborative development environments and for bringing creative ideas and user stories to life through code. I thrive on problem-solving and am continuously learning and growing.
 
