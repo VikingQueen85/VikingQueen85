@@ -75,7 +75,7 @@ I am deeply committed to continuous professional development and staying at the 
 ## 📫 **Let's Connect!**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/teresa-pahl-7a1654318/" target="_blank">
+  <a href="https://www.linkedin.com/in/teresa-pahl/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;&nbsp;&nbsp;
