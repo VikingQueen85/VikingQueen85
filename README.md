@@ -28,10 +28,12 @@ I’m a passionate and driven developer with a strong foundation in modern web t
 ![LangChain](https://img.shields.io/badge/LangChain-224422?logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-991199?logo=nodered&logoColor=white)
 <br>
+
 **Databases** <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 <br>
+
 **Tools & Platforms** <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
@@ -43,14 +45,16 @@ I’m a passionate and driven developer with a strong foundation in modern web t
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)
 <br>
+
 **Other** <br>
 Agile • Responsive Web Design • SEO Best Practices
+</p>
 
 ---
 
 ## 🌟 Featured Projects   
 🔹 [**AI Policy Generator (Wonderbean)**](https://github.com/Wonderbean/AI-Policy-Generator) – Contributing to Wonderbean’s open-source project  
-</p>
+
 ---
 
 ## 📊 GitHub Stats  
