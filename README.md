@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./images/Viking.png" alt="VikingQueen85 Banner" />
-</p>
-
-# Hi there, I'm Tessa Pahl (VikingQueen85) 👋  
+# Hi there, my name is Teresa Pahl (Tessa) 👋  
 
 🚀 **Junior Full Stack Web Developer | React, Node.js, MongoDB | Mission Ready Certified**  
 
@@ -12,7 +8,7 @@
 I’m a passionate and driven developer with a strong foundation in modern web technologies, having recently completed my **Full Stack Web Development Certification at Mission Ready (2024–2025)**.  
 
 💡 My background as a **Registered Nurse** gives me an edge in problem-solving, communication, patience, and attention to detail.  
-🌱 Currently expanding into **Next.js, TypeScript, TailwindCSS, and advanced React**.  
+🌱 Currently expanding into **Advanced React, CloudFlare, Auth0, TypeScript, LangChain, LangGraph, Next.js, and TailwindCSS**.  
 🤝 Open to **collaboration on open-source projects** and opportunities to grow as a developer.  
 
 ---
@@ -47,11 +43,7 @@ Agile • Responsive Web Design • SEO Best Practices
 
 ---
 
-## 🌟 Featured Projects  
-
-🔹 [**LVL5 Mission 05 – Group Project**](https://github.com/VikingQueen85/LVL5-Mission-05-Phase-02) – Full-stack group project built at Mission Ready  
-🔹 [**Interview Chatbot**](https://github.com/VikingQueen85/LVL5-Mission-03) – AI-powered interview preparation chatbot  
-🔹 [**AI Chatbot**](https://github.com/VikingQueen85/LVL5-Mission-04) – Conversational AI app  
+## 🌟 Featured Projects   
 🔹 [**AI Policy Generator (Wonderbean)**](https://github.com/Wonderbean/AI-Policy-Generator) – Contributing to Wonderbean’s open-source project  
 
 ---
