@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Viking.png" alt="VikingQueen85 Banner" />
+  <img src="./images/Viking.png" alt="VikingQueen85 Banner" />
 </p>
 
 # Hi there, I'm Tessa Pahl (VikingQueen85) 👋  
