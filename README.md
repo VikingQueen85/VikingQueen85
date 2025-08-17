@@ -1,87 +1,79 @@
-# Hi there, My name is Teresa Pahl (Tessa)!! 👋
+<p align="center">
+  <img src="./A_digital_graphic_design_banner_introduces_\"Viking.png" alt="VikingQueen85 Banner" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Continuous+Learning;Test-Driven+Development;Project-Based+Learning;Communication+%26+Leadership;Problem+Solving)](https://git.io/typing-svg)
+# Hi there, I'm Tessa Pahl (VikingQueen85) 👋  
 
-## 🚀 **About Me**
+🚀 **Junior Full Stack Web Developer | React, Node.js, MongoDB | Mission Ready Certified**  
 
-I'm a passionate and driven **Junior Full Stack Web Developer** with a solid foundation in modern web technologies, having recently completed my comprehensive Full Stack Web Development certification at Mission Ready (July 2024 – July 2025).
+---
 
-My extensive background as a **Registered Nurse** has uniquely honed my **exceptional attention to detail, sustained diligence, and top-tier communication skills**, including de-escalation and patience – qualities I believe are invaluable in collaborative development environments and for bringing creative ideas and user stories to life through code. I thrive on problem-solving and am continuously learning and growing.
+## 🧑‍💻 About Me  
+I’m a passionate and driven developer with a strong foundation in modern web technologies, having recently completed my **Full Stack Web Development Certification at Mission Ready (2024–2025)**.  
 
-## 🛠️ **Technologies & Tools**
+💡 My background as a **Registered Nurse** gives me an edge in problem-solving, communication, patience, and attention to detail.  
+🌱 Currently expanding into **Next.js, TypeScript, TailwindCSS, and advanced React**.  
+🤝 Open to **collaboration on open-source projects** and opportunities to grow as a developer.  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-0056B3?style=for-the-badge&logo=appwrite&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0C7DDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white)
-![SEO Best Practices](https://img.shields.io/badge/SEO_Best_Practices-4285F4?style=for-the-badge&logo=google&logoColor=white)
+---
 
-## 💻 **Languages & Frameworks**
+## 🛠️ Tech Stack  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+**Languages & Frameworks**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)  
 
-## 💾 **Databases**
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)  
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)  
+![REST](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)  
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)  
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)  
 
-## 🌱 **Currently Learning**
+**Other**  
+Agile • Responsive Web Design • SEO Best Practices  
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Advanced React](https://img.shields.io/badge/React_Patterns-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Database Optimization](https://img.shields.io/badge/Database_Optimization-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-## 🌱 **Continuous Learning & Growth**
+## 🌟 Featured Projects  
 
-I am deeply committed to continuous professional development and staying at the forefront of web technologies. My over 30 additional certifications from my nursing career underscore a proactive dedication to continuous learning and mastery of new knowledge.
+🔹 [**LVL5 Mission 05 – Group Project**](https://github.com/VikingQueen85/LVL5-Mission-05-Phase-02) – Full-stack group project built at Mission Ready  
+🔹 [**Interview Chatbot**](https://github.com/VikingQueen85/LVL5-Mission-03) – AI-powered interview preparation chatbot  
+🔹 [**AI Chatbot**](https://github.com/VikingQueen85/LVL5-Mission-04) – Conversational AI app  
+🔹 [**AI Policy Generator (Wonderbean)**](https://github.com/Wonderbean/AI-Policy-Generator) – Contributing to Wonderbean’s open-source project  
 
-* **Active Engagement:** Regularly participate in the Mission Ready JavaScript community, contributing to discussions and collaborative learning initiatives.
-* **Independent Study:** Consistently explore advanced JavaScript concepts, modern React patterns, and new technologies through online tutorials, documentation, and industry blogs.
-* **Problem Solver:** Driven to tackle new challenges and continuously refine my coding practices.
+---
 
-## 🌟 **What I'm Working On**
+## 📊 GitHub Stats  
 
-* Building robust full-stack applications with modern technologies.
-* Expanding my knowledge in new web technologies and architectural patterns.
-* Actively contributing to various open-source projects on GitHub, primarily focusing on JavaScript-based libraries and tools (bug fixes, feature enhancements, documentation improvements).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VikingQueen85&show_icons=true&theme=tokyonight" alt="Tessa's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikingQueen85&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikingQueen85&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-## 📊 **GitHub Stats**
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikingQueen85&show_icons=true&theme=radical" alt="Tessa Pahl's GitHub Stats" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikingQueen85&theme=dark&border=FFFFFF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikingQueen85&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-<br />
+## 📫 Let’s Connect  
 
-## 📫 **Let's Connect!**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teresa-pahl-7a1654318/)  
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:missrn1985@gmail.com)  
+- [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-7971-6904)  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/teresa-pahl/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:Missrn1985@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
+---
 
-#### 💡 *"Progress is impossible without change, and those who cannot change their minds cannot change anything." - George Bernard Shaw*
+💡 *“Progress is impossible without change, and those who cannot change their minds cannot change anything.”* – George Bernard Shaw
