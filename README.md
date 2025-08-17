@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./A_digital_graphic_design_banner_introduces_\"Viking.png" alt="VikingQueen85 Banner" />
+  <img src="GitHub Banner "Viking.png" alt="VikingQueen85 Banner" />
 </p>
 
 # Hi there, I'm Tessa Pahl (VikingQueen85) 👋  
