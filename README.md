@@ -1,6 +1,6 @@
 # Hi there, my name is Teresa Pahl (Tessa) 👋  
 
-🚀 **Junior Full Stack Web Developer | React, Node.js, MongoDB | Mission Ready Certified**  
+🚀 **Full Stack Web Developer | React, Node.js, MongoDB | Mission Ready Certified**  
 
 ---
 
