@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-I’m a passionate and driven developer with a strong foundation in modern web technologies, having recently completed my **Full Stack Web Development Certification at Mission Ready (2024–2025)**.  
+I’m a passionate and driven Full-Stack Web Developer with a strong foundation in modern web technologies, having recently completed my **Full Stack Web Development Certification at Mission Ready (2024–2025)**.  
 
 💡 My background as a **Registered Nurse** gives me an edge in problem-solving, communication, patience, and attention to detail.  
 🌱 Currently expanding into **Advanced React, CloudFlare, Auth0, TypeScript, LangChain, LangGraph, Next.js, and TailwindCSS**.  
