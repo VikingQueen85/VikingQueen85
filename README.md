@@ -5,11 +5,13 @@
 ---
 
 ## 🧑‍💻 About Me  
-I’m a passionate and driven Full-Stack Web Developer with a strong foundation in modern web technologies, having recently completed my **Full Stack Web Development Certification at Mission Ready (2024–2025)**.  
+I’m a Full Stack Developer passionate about building modern, responsive web applications with React, Node.js, TypeScript, and MongoDB. I combine strong technical skills with the problem-solving, attention to detail, and resilience I developed as a Registered Nurse — bringing precision and empathy to every project.
 
-💡 My background as a **Registered Nurse** gives me an edge in problem-solving, communication, patience, and attention to detail.  
-🌱 Currently expanding into **Advanced React, CloudFlare, Auth0, TypeScript, LangChain, LangGraph, Next.js, and TailwindCSS**.  
-🤝 Open to **collaboration on open-source projects** and opportunities to grow as a developer.  
+🌟 Currently contributing to Wonderbean’s AI Blueprinter, a cloud-based platform that generates custom business strategies and policies using LLMs (LangChain + LangGraph) and Cloudflare serverless infrastructure. I’m involved in both frontend and backend development, designing interactive wizards in React, implementing secure APIs, and orchestrating AI-driven workflows — helping businesses make smarter, faster strategic decisions.
+
+💡 I’m exploring advanced React patterns, Cloudflare Workers, Auth0, Next.js, and TailwindCSS, and I love creating projects that merge AI, cloud architecture, and clean, scalable code.
+
+🤝 Open to collaboration, open-source contributions, and opportunities to grow as a developer, especially in projects involving AI, cloud, and full-stack development.
 
 ---
 
