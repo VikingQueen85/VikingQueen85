@@ -16,7 +16,7 @@ I’m a Full Stack Developer passionate about building modern, responsive web ap
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack 
 
 <p align="center">
 
@@ -27,16 +27,21 @@ I’m a Full Stack Developer passionate about building modern, responsive web ap
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-224422?logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-991199?logo=nodered&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white)
 <br>
 
-**Databases** <br>
+**Databases / Storage** <br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-121212?logo=cloudflare&logoColor=orange)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-121212?logo=cloudflare&logoColor=orange)
 <br>
 
 **Tools & Platforms** <br>
@@ -49,8 +54,11 @@ I’m a Full Stack Developer passionate about building modern, responsive web ap
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Wrangler](https://img.shields.io/badge/Wrangler-FF7139?logo=cloudflare&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black)
 <br>
 
 **Other** <br>
