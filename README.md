@@ -62,7 +62,9 @@ Agile • Responsive Web Design • SEO Best Practices
 ## 🌟 Featured Projects   
 
 🔹 [**AI Policy Generator (Wonderbean)**](https://github.com/Wonderbean/AI-Policy-Generator) – Contributing to Wonderbean’s open-source project
+<br>
 🔹 [Z Petrol App](https://github.com/VikingQueen85/LVL5-Mission-05-Phase-02) - A comprehensive web application designed to enhance the customer experience at Z Energy stations
+<br>
 🔹 [Amara: Conversational AI Consultant](https://github.com/VikingQueen85/Mission-04.git) - A chatbot application that acts as an AI-powered virtual insurance consultant
 
 ---
