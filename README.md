@@ -50,6 +50,7 @@ I’m a Full Stack Developer passionate about building modern, responsive web ap
 ![REST](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
 <br>
 
 **Other** <br>
