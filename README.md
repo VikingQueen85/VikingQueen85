@@ -1,6 +1,6 @@
 # Hi there, my name is Teresa Pahl (Tessa) 👋  
 
-🚀 Full Stack Developer | Contributing to Wonderbean AI Blueprinter – Building Cloud-based AI tools that generate custom business strategies with React, TypeScript, LangChain, and Cloudflare Workers. | Mission Ready Certified**  
+🚀 Full Stack Developer | Contributing to Wonderbean AI Blueprinter – Building Cloud-based AI tools that generate custom business strategies with React, TypeScript, LangChain, and Cloudflare Workers. | Mission Ready Certified
 
 ---
 
